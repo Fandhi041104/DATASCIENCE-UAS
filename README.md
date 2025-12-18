@@ -222,10 +222,6 @@ callbacks=[EarlyStopping(patience=15)]
 | 1 | 0.62 | 0.50 | 0.55 | 10 |
 | 2 | 1.00 | 1.00 | 1.00 | 6 |
 
-### Visualisasi
-![Model Comparison](images/model_comparison.png)
-![Confusion Matrices](images/rf_confusion_matrix.png)
-
 ---
 
 # 7. 🏁 Kesimpulan
