@@ -12,8 +12,8 @@
 **Mata Kuliah:** Data Science  
 **Dosen Pengampu:** Gus Nanang Syaifuddiin  
 **Tahun Akademik:** 2025/Semester 5  
-**Link GitHub Repository:** [Isi dengan URL repository Anda]  
-**Link Video Pembahasan:** [Isi dengan URL video Anda]
+**Link GitHub Repository:** https://github.com/Fandhi041104/DATASCIENCE-UAS.git 
+**Link Video Pembahasan:** https://youtu.be/g9RYkt0ToIQ
 
 ---
 
