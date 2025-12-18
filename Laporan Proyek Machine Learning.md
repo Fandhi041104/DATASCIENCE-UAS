@@ -10,7 +10,7 @@
 **NIM:** 233307049
 **Program Studi:** Teknologi Informasi  
 **Mata Kuliah:** Data Science  
-**Dosen Pengampu:** Gus Nanang Syaifuddiin  
+**Dosen Pengampu:** Gus Nanang Syaifuddiin, S.Kom., M.Kom. 
 **Tahun Akademik:** 2025/Semester 5  
 **Link GitHub Repository:** https://github.com/Fandhi041104/DATASCIENCE-UAS.git 
 **Link Video Pembahasan:** https://youtu.be/g9RYkt0ToIQ
