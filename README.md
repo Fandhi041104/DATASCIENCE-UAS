@@ -1,5 +1,5 @@
-# 📘 Judul Proyek
-*(Isi judul proyek Anda di sini)*
+# 📘 Klasifikasi Pola Kognitif Manusia dengan Machine Learning dan Deep Learning
+Proyek prediksi pola kognitif manusia menggunakan Hayes-Roth Dataset dengan perbandingan 3 pendekatan: Logistic Regression (baseline), Random Forest (advanced), dan Neural Network (deep learning).
 
 ## 👤 Informasi
 - **Nama:** [...]  
